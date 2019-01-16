@@ -1,0 +1,10 @@
+platform :ios, '8.0'
+
+target 'WrongBook' do
+pod 'MBProgressHUD'
+pod 'MJRefresh'
+pod 'PGBanner'
+pod 'SDAutoLayout'
+pod 'GPUImage'
+
+end
